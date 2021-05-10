@@ -1,1 +1,12 @@
-[{"description":"Git Basics","image_url":"http://i3.ytimg.com/vi/1gUF7tZ4hh4/maxresdefault.jpg","link":"https://www.youtube.com/watch?v=1gUF7tZ4hh4"},{"description":"Investment Notifier","image_url":"http://i3.ytimg.com/vi/ZYs3DZibqYA/maxresdefault.jpg","link":"https://www.youtube.com/watch?v=ZYs3DZibqYA"}]
+[
+  {
+    "description":"Git Basics",
+    "image_url":"https://telegra.ph/file/6eb9b7fb79c93251151b8.png",
+    "link":"https://www.youtube.com/watch?v=X-kq3UaCZx8"
+  },
+  {
+    "description":"Investment Notifier",
+    "image_url":"http://i3.ytimg.com/vi/ZYs3DZibqYA/maxresdefault.jpg",
+    "link":"https://www.youtube.com/watch?v=ZYs3DZibqYA"
+  }
+]
