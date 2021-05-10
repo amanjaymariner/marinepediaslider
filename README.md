@@ -1,1 +1,1 @@
-# marinepediaslider
+# marinepedia update slider
